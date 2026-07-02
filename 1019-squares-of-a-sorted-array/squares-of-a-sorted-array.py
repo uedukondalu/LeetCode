@@ -6,7 +6,7 @@ class Solution(object):
         """
         fre=[]
         for i in range(len(nums)):
-            fre.append(nums[i]*nums[i])
+            fre.append(nums[i]*nums[i])';
             fre.sort()
         return fre
 
